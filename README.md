@@ -65,4 +65,6 @@ form builder view helpers. Here are some hints:
 * [Specifying which parameters are accepted in Rails Controllers](https://apidock.com/rails/ActionController/Parameters/permit)
 * [`fields_for` form helper](https://api.rubyonrails.org/v5.2.3/classes/ActionView/Helpers/FormHelper.html#method-i-fields_for)
 
+  **Hint:**  Write the `genre` getter and setter methods in the `Song` model.
+
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/forms-and-basic-associations-rails-lab' title='Forms And Basic Associations Rails Lab'>Forms And Basic Associations Rails Lab</a> on Learn.co and start learning to code for free.</p>
